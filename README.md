@@ -1,6 +1,7 @@
 
 Hi, I'm Akil
-- 🖥️ Self taught software developer
-- 🏗️ I'm the founder of Neuron HR
-- 🌱 I’m currently learning Go
+- 🌐 Self taught web software developer
+- 🧠 I'm the founder of Neuron HR
+- 🎯 Currently building modern, user friendly and highly performant HR Software
+- 📫 Email me at info@neuronhrs.com
 
